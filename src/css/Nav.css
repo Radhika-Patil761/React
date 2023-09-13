@@ -1,0 +1,26 @@
+#navbar{
+    display: flex;
+    align-items: flex-start;
+    /* justify-content: space-evenly; */
+    
+   position: sticky;
+   position: fixed;
+   padding-bottom: 15px;
+   background-image: linear-gradient(to left,rgb(241, 147, 147),rgb(223, 223, 152),rgb(183, 183, 228));
+   width: 100%;
+    
+}
+#navbar li{
+    padding-left: 40px;
+    display: flex;
+    
+}
+#navbar li button{
+    border: none;
+    background: transparent;
+    color: crimson;
+    padding-top: 20px;
+    text-shadow: 2px 2px 2px red;
+    
+}
+

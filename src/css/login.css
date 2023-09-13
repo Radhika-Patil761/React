@@ -1,0 +1,35 @@
+#logForm{
+    color: rgb(7, 7, 7);
+    background-color:transparent;
+    box-shadow: 20px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 200px;
+    width: 400px; 
+    backface-visibility: visible;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-bottom: 20px;
+}
+#input{
+    border-color: aquamarine;
+    border-radius: 8px;
+    text-decoration: none;
+}
+#logincss{
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 20px;
+    padding-top: 30px;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(/src/css/dance1.jpg) ;
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+    background-size: 100% 100%;
+
+}
